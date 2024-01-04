@@ -8,7 +8,6 @@ import {
 } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
 import "../assets/css/Header.css";
-import { ColorModeSwitcher } from './ColorModeSwitcher.js';
 
 
 
