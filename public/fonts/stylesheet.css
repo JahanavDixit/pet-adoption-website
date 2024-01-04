@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Fun Club';
+    src: url('FunClub-Regular.eot');
+    src: local('Fun Club'), local('FunClub-Regular'),
+        url('FunClub-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-Regular.woff2') format('woff2'),
+        url('FunClub-Regular.woff') format('woff'),
+        url('FunClub-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Fun Club Outline';
+    src: url('FunClub-OutlineItalic.eot');
+    src: local('Fun Club Outline Italic'), local('FunClub-OutlineItalic'),
+        url('FunClub-OutlineItalic.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-OutlineItalic.woff2') format('woff2'),
+        url('FunClub-OutlineItalic.woff') format('woff'),
+        url('FunClub-OutlineItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fun Club';
+    src: url('FunClub-Italic.eot');
+    src: local('Fun Club Italic'), local('FunClub-Italic'),
+        url('FunClub-Italic.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-Italic.woff2') format('woff2'),
+        url('FunClub-Italic.woff') format('woff'),
+        url('FunClub-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fun Club Script';
+    src: url('FunClub-Script.eot');
+    src: local('Fun Club Script'), local('FunClub-Script'),
+        url('FunClub-Script.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-Script.woff2') format('woff2'),
+        url('FunClub-Script.woff') format('woff'),
+        url('FunClub-Script.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fun Club Script Outline';
+    src: url('FunClub-ScriptOutline.eot');
+    src: local('Fun Club Script Outline'), local('FunClub-ScriptOutline'),
+        url('FunClub-ScriptOutline.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-ScriptOutline.woff2') format('woff2'),
+        url('FunClub-ScriptOutline.woff') format('woff'),
+        url('FunClub-ScriptOutline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Fun Club Outline';
+    src: url('FunClub-Outline.eot');
+    src: local('Fun Club Outline'), local('FunClub-Outline'),
+        url('FunClub-Outline.eot?#iefix') format('embedded-opentype'),
+        url('FunClub-Outline.woff2') format('woff2'),
+        url('FunClub-Outline.woff') format('woff'),
+        url('FunClub-Outline.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
