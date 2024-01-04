@@ -60,9 +60,6 @@ const Header = () => {
             <li>
               <a href="#contact">Contact</a>
             </li>
-            <li>
-            <ColorModeSwitcher/>
-            </li>
           </ul>
         </nav>
 
