@@ -3,7 +3,6 @@ import "./PetGulp.css";
 // import BestSeller from "./components/BestSeller";
 import Brands from "./components/Brands";
 import CTA from "./components/CTA";
-import Category from "./components/Category";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
@@ -14,7 +13,6 @@ const PetGulp = () => {
     <>
       <Header />
       <Hero />
-      {/* <Category /> */}
       <Service />
       <CTA />
       <Brands />

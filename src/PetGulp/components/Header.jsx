@@ -10,7 +10,6 @@ import React, { useEffect, useState } from "react";
 import "../assets/css/Header.css";
 import { ColorModeSwitcher } from './ColorModeSwitcher.js';
 
-import paws from "../assets/images/paws.png";
 
 
 const Header = () => {
